@@ -9,7 +9,7 @@
     "url": "https://github.com/generate/generate-foo/issues"
   },
   "license": "MIT",
-  "files": [],
+  "files": ["generator.js"],
   "engines": {
     "node": ">=0.10.0"
   },
