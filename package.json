@@ -1,0 +1,29 @@
+{
+  "name": "generate-foo",
+  "description": "fake generator, for `generate` unit tests.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/generate/generate-foo",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "generate/generate-foo",
+  "bugs": {
+    "url": "https://github.com/generate/generate-foo/issues"
+  },
+  "license": "MIT",
+  "files": [],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "foo",
+    "generate"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "generate",
+        "resolve-modules",
+        "base-methods"
+      ]
+    }
+  }
+}
