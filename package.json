@@ -1,7 +1,7 @@
 {
   "name": "generate-foo",
   "description": "fake generator, for `generate` unit tests.",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "homepage": "https://github.com/generate/generate-foo",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "generate/generate-foo",
@@ -10,6 +10,7 @@
   },
   "license": "MIT",
   "files": ["generator.js"],
+  "main": "generator.js",
   "engines": {
     "node": ">=0.10.0"
   },
