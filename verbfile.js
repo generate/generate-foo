@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = function (verb, base) {
+module.exports = function foo(verb, base) {
   verb.task('default', function(cb) {
     console.log('generator-foo verbfile > default');
     cb();
